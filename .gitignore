@@ -1,0 +1,12 @@
+# IDE Files
+.idea/
+
+# Certificates and ENV Variables
+certs/
+.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+dist/
